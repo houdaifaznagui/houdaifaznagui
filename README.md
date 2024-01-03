@@ -4,7 +4,7 @@
 
 - 🔭 I am currently a **42 Network computer science student at the 1337 Coding School.**
 
-- 🌱 I’m currently learning **c, shell, Network, system administration, Graphics, Algorithms & AI**
+- 🌱 I’m currently learning **c, c++, shell, Network, system administration, Graphics, Algorithms & AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
