@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm houdayfa znagui</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hznagui&label=Profile%20views&color=0e75b6&style=flat" alt="hznagui" /> </p>
-<div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/hznagui" alt="hznagui's 42 stats" /></a></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=houdaifaznagui&label=Profile%20views&color=0e75b6&style=flat" alt="hznagui" /> </p>
+<div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/houdaifaznagui" alt="hznagui's 42 stats" /></a></div>
 
 - 🔭 I am currently a **42 Network computer science student at the 1337 Coding School.**
 
